@@ -1,6 +1,4 @@
-### Sports-K E-Commerce
-
-<h1 align="center"> Sports-K </h1>
+### Sports E-Commerce
 
 Sports-K is a e-commerce website which offers sports based products like men's clothes and shoes and women's clothes and shoes. It allows you to buy clothes and shoes online with payment gateway integration. you can add your favourite product or you can also search by using filters. There are diffrent type or variety of clothes and shoes available in this website. you just have to follow the steps and after some steps you will able to place your order and buy products which you are store in your cart. 
 
