@@ -11,24 +11,6 @@ Sports-K is a e-commerce website which offers sports based products like men's c
 #### Dependency : react, react-router-dom, react-redux, redux, redux-thunk, axios, react-icons, chakra-UI/react, chakra-UI/Icons, swal etc.
 
 
-1) <h2>Navbar </h2>
-
-
-![Khamaliya navbar](https://user-images.githubusercontent.com/101567054/193954871-f9f6fb4a-d3cf-41a1-90d3-7af8905db3c4.png)
-
-2) <h2>Footer</h2>
-
-In the footer part I have add my linkedin , github , and portfolio website. you can check by clicking to them.
-
-
-![Khamaliya Footer](https://user-images.githubusercontent.com/101567054/193954893-b818e77d-fac2-4fd7-b644-36f7e094d7e3.png)
-
-3) <h2>Home</h2>
-
-It is the main page where I gave a 3 link on image. you can directly access this page by clicking to the relevant page.
-
-
-![Khamaliya Home](https://user-images.githubusercontent.com/101567054/193954926-e0857c27-321b-4534-8801-6530605994d3.png)
 
 4) <h2>Products</h2>
 This is the products page where you can see the variety of products. for find the relevant product you can use the filter. In the filter part you can search by category. you choice your favourite color and buy the item. you can choose your gender so you will be able to see the all products which only men wear.
@@ -61,37 +43,9 @@ The Products which we want to buy is in the cart section. In this cart section y
 
 ![Khamaliya checkout](https://user-images.githubusercontent.com/101567054/193955033-90029f9e-bf04-4acc-87d3-674574429525.png)
 
-9) <h2>Register</h2>
 
-In this page you have to register your details so you will login the credentials. remember you username and password for login the right credentials
-![Khamaliya signup](https://user-images.githubusercontent.com/101567054/193955043-36b33053-ba88-4300-90a3-19855c321c86.png)
-
-10) <h2>Login</h2>
-
-we can login by username and password after login we are redirected to the homepage. but if I enter the admin username and password so i will redirected to the admin page where I can edit the details and change the price and name etc. other thing from admin side. user will able to the changes in website. I can also delete the product from admin side 
-
-![Khamaliya login](https://user-images.githubusercontent.com/101567054/193955058-bc540264-c193-4696-9774-b406e3df517e.png)
-
-11) <h2>Payment</h2>
-
-![Khamaliya payment](https://user-images.githubusercontent.com/101567054/193955077-487b6990-6f25-4b3e-90d7-0b9e01926d4c.png)
-
-13) <h2>Admin</h2>
-
-
-![Khamaliya admin](https://user-images.githubusercontent.com/101567054/193957519-a3141c95-4458-4583-b4d2-c81ac5fec3a1.png)
-
-
-
-
-Contributed by
-
-### Naresh Rajput
 
 ### Deploy Link
 
 Link : https://nareshrajput-sports-site.vercel.app/
 
-
-
-<h1>If you Like Give it a</h1> <img  width="100px" src="https://camo.githubusercontent.com/959f0851ab4758d4d2006c8908a5dd7617112fd8e9d4f0a061bb83a6796ce837/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39392f537461725f69636f6e5f7374796c697a65642e7376672f35313270782d537461725f69636f6e5f7374796c697a65642e7376672e706e67"/>
