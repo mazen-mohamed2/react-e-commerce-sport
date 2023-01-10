@@ -43,7 +43,5 @@ The Products which we want to buy is in the cart section. In this cart section y
 
 
 
-### Deploy Link
 
-Link : https://react-e-commerce-sport.vercel.app/
 
